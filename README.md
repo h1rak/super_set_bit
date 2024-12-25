@@ -1,0 +1,4 @@
+super_set_list,super_set_tableは集合で計算
+spuer_set_list_bit,super_set_table_bitはビットで計算
+make_essential_srsのis_essential_bit_pruning2は集合と数値を行ったり来たりしているが一番早い
+is_essential_bit_pruning_integerは数値計算のみだが少し遅い
